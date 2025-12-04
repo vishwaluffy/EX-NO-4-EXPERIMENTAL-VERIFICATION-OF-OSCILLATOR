@@ -40,14 +40,9 @@ RC PHASE SHIFT OSCILLATOR
 
 ## DESIGN
 
-## RC PHASE SHIFT OSCILLATOR
-fo = 1 /  6 (2RC) Rf  29 R1
-C = 0.01F, fo = 200 Hz.
-R = 1 /  6 (2  f C ) = 3.3 k
-Therefore, Choose R = 3.3k
-To prevent loading,
-R1   10 R
-R1 =10 R = 33 k. Rf = 29R1=1MΩ
+![WhatsApp Image 2025-12-04 at 10 42 23_d6a37fc9](https://github.com/user-attachments/assets/fdb3e92c-286a-4a53-97c4-edbf3c9ac8d2)
+![WhatsApp Image 2025-12-04 at 10 43 10_1425f984](https://github.com/user-attachments/assets/4c6d09bc-2d86-45bb-a470-d75dcb38b753)
+
 
 ---
 ## PROCEDURE
